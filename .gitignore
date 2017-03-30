@@ -1,0 +1,15 @@
+### Emacs ###
+*~
+
+### Agda ###
+*.agdai
+
+### Racket ###
+*.rkt~
+*.rkt.bak
+\#*.rkt#
+\#*.rkt#*#
+*.dep
+*.zo
+
+compiled
